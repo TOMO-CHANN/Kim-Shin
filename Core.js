@@ -4706,71 +4706,67 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
+I am *Miku Nakano*, a bot developed by *HOPE*.
 
-🔰 My prefix is:  ${prefix}
+🔮 My prefix is:  ${prefix}
 
 Here's the list of my Commands.
 
 
  
- *━━━〈  🎆 Core 🎆  〉━━━*
+ *↫↫↫↫↫ { 👑 𝓬𝓸𝓻𝓮 👑 } ↬↬↬↬↬*
 
 speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
- *━━━〈  🎀 Owner 🎀  〉━━━*
+ *↫↫↫↫↫ { 🎖️ 𝓸𝔀𝓷𝓮𝓻 🎖️ } ↬↬↬↬↬*
 
 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
- *━━━〈  ⭕ Group ⭕  〉━━━*
+ *↫↫↫↫↫ { 🪩 𝓐𝓓𝓜𝓘𝓝 🪩 } ↬↬↬↬↬*
  
 promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
 
- *━━━〈  ➰ Anti Link ➰  〉━━━*
+ *↫↫↫↫↫ { ⚙️ 𝓐𝓝𝓣𝓘-𝓛𝓘𝓝𝓚 ⚙️ } ↬↬↬↬↬*
  
 antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame
 
- *━━━〈  🔍 Search 🔍  〉━━━*
+ *↫↫↫↫↫ { 🔎 𝓢𝓔𝓐𝓡𝓒𝓗 🔍 } ↬↬↬↬↬*
 
 play, ytmp3, ytmp4, yts, lyrics, google, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone  
 
- *━━━〈  🔰 Convert 🔰  〉━━━*
+ *↫↫↫↫↫ { ♻️ 𝓒𝓞𝓝𝓥𝓔𝓡𝓣 ♻️ } ↬↬↬↬↬*
 
 sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
 
- *━━━〈  🔉 Audio 🔉  〉━━━*
+ *↫↫↫↫↫ { 🔊 𝓐𝓤𝓓𝓘𝓞 🔊 } ↬↬↬↬↬*
 
 bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
 
- *━━━〈  📍 Reactions 📍  〉━━━*
+ *↫↫↫↫↫ { 🏮 𝓡𝓔𝓐𝓒𝓣𝓘𝓞𝓝 🏮 } ↬↬↬↬↬*
 
 bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
 
- *━━━〈  🌌 Downloader 🌌  〉━━━*
+ *↫↫↫↫↫ { 🔗 𝓓𝓞𝓦𝓝𝓛𝓞𝓐𝓓 🔗 } ↬↬↬↬↬*
 
 play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
 
- *━━━〈  🈴 Weeb 🈴  〉━━━*
+ * ↫↫↫↫↫ { 🎐 𝓦𝓔𝓔𝓑 🎐 } ↬↬↬↬↬*
 
 crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
 
- *━━━〈  ♨️ Informative ♨️  〉━━━*
+ *↫↫↫↫↫ { 📌 𝓣𝓘𝓜𝓔-𝓟𝓐𝓢𝓢 📌} ↬↬↬↬↬*
 
 animequote, quote, covid, earthquake, wiki
 
- *━━━〈  🎗 Others 🎗  〉━━━*
+ *↫↫↫↫↫ { 🧩 𝓔𝓝𝓙𝓞𝓨 🧩 } ↬↬↬↬↬*
 
 stickermeme, quotes, darkjoke 
 
- *━━━〈  🎐 Fun 🎐  〉━━━*
+ * ↫↫↫↫↫ { 🎰 𝓕𝓤𝓝 🎰 } ↬↬↬↬↬*
 
 reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
 
- *━━━〈  🪁 Essentials 🪁  〉━━━*
-
-qr, say, translate, fliptext, toletter
-
- *━━━〈  💥 NSFW 💥  〉━━━*
+*↫↫↫↫↫ { ✨ 𝓝𝓢𝓕𝓦 ✨ } ↬↬↬↬↬*
 
 🍁 Type " *${prefix}nsfw* " then enable NSFW (Admin only!) 
 
@@ -4780,7 +4776,7 @@ qr, say, translate, fliptext, toletter
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *𝓚𝓲𝓶-𝓢𝓱𝓲𝓷*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
