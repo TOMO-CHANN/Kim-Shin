@@ -4701,7 +4701,7 @@ replay('Broadcast Sent !')
 break    
 
 
-case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
+case 'help': case 'h': case 'menu': case 'allmenu': case 'hope':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
@@ -4777,7 +4777,7 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
 
 
  『  *${global.BotName}*  』
- Powered by: *𝓚𝓲𝓶-𝓢𝓱𝓲𝓷*
+ Powered by: *𝚉𝚎𝚛𝚘-𝚃𝚠𝚘*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
@@ -4788,7 +4788,7 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
     
 
  let buttonshelpm = [
-    {buttonId: `${prefix}owner`, buttonText: {displayText: 'Bot Owner'}, type: 1}
+    {buttonId: `${prefix}owner`, buttonText: {displayText: '𝙾𝚆𝙽𝙴𝚁'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
@@ -4811,10 +4811,10 @@ case '':
       mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
     
         
- const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}help* to get my full command list.`
+ const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}hope* to get my full command list.`
      
          let butRun = [
-                {buttonId: `${prefix}help`, buttonText: {displayText: 'Help'}, type: 1}
+                {buttonId: `${prefix}help`, buttonText: {displayText: '𝐻𝒪𝒫𝐸'}, type: 1}
                 ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku.mp4'),gifPlayback:true,
