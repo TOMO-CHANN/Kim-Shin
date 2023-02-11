@@ -154,7 +154,6 @@ Hello @${WAuserName.split("@")[0]},
 
 I am *Miku Nakano*, Welcome to ${metadata.subject}.
 
-*Group Description:*
 ${metadata.desc}
 `
 
