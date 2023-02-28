@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['917065844587']
-global.OwnerNumber = ['917065844587']
-global.ownertag = ['917065844587']
+global.Owner = ['918178640193']
+global.OwnerNumber = ['918178640193']
+global.ownertag = ['918178640193']
 global.BotName = "ℳ𝓘𝓚𝓤"
 global.packname = "🌟 ʜᴇʀᴇ ʏᴏᴜ ɢᴏ"
 global.author = "ʙʏ: ᴍɪᴋᴜ ʙᴏᴛ 🌟"
-global.OwnerName = "ℋ𝓞𝓟𝓔"
+global.OwnerName = "FUJI"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/LmYivewUm83092T1WUGdl3"
+global.SupportGroupLink = "https://chat.whatsapp.com/GT8Q4JNqt51EAn1MnBl6Fj"
 global.sessionName = "session"
 
 
