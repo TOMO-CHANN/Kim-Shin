@@ -149,15 +149,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
             
                 if (anu.action == 'add') {
                 let WAuserName = num
-                mikutext = `
-
-
-    let buttonMessage = {
-	image:await getBuffer(ppuser),
-    mentions: [num],
-    caption: mikutext,
-    footer: `${global.BotName}`,
-    headerType: 4,
+                mikutext = 
     
     }
     Miku.sendMessage(anu.id, buttonMessage)}}
