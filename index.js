@@ -156,9 +156,9 @@ Miku.ev.on('group-participants.update', async (anu) => {
 
 
 
-`
 
-    let buttonMessage = {
+
+let buttonMessage = {
 	image:await getBuffer(ppuser),
     mentions: [num],
     caption: mikutext,
