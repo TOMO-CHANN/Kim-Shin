@@ -4788,7 +4788,7 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
     
 
  let buttonshelpm = [
-    {buttonId: `${prefix}owner`, buttonText: {displayText: '𝙾𝚆𝙽𝙴𝚁'}, type: 1}
+    {buttonId: `${prefix}support`, buttonText: {displayText: '𝑇𝑅𝛩𝑈𝑃𝛯'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
