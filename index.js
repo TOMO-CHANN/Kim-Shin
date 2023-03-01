@@ -153,12 +153,6 @@ Miku.ev.on('group-participants.update', async (anu) => {
 
 
 `
-
-    let buttonMessage
-    mentions: [num],
-    caption: mikutext,
-    footer: `${global.BotName}`,
-    headerType: 4,
     
     }
     Miku.sendMessage(anu.id, buttonMessage)}}
