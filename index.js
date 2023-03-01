@@ -134,7 +134,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 try {
                     ppuser = await Miku.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://wallpapercave.com/wp/wp10753770.jpg'
+                    ppuser = 'https://i.pinimg.com/236x/93/a4/b6/93a4b6607d6728f0b66c8bf3e95e7911.jpg'
                 }
 
                 try {
@@ -154,8 +154,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
 
 `
 
-    let buttonMessage = {
-	image:await getBuffer(ppuser),
+    let buttonMessage
     mentions: [num],
     caption: mikutext,
     footer: `${global.BotName}`,
