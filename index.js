@@ -132,9 +132,9 @@ Miku.ev.on('group-participants.update', async (anu) => {
             for (let num of participants) {
   
                 try {
-                    ppuser = await Miku.profilePictureUrl(num, 'image')
+                    ppuser = await Miku.profilePil(num, '')
                 } catch {
-                    ppuser = 'https://wallpapercave.com/wp/wp10753770.jpg'
+                    ppuser = ''
                 }
 
                 try {
