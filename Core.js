@@ -1478,7 +1478,7 @@ replay('This Group has been *unbanned* from using me!')
 
 case 'support': case 'Troupe':
     
-    reply(`*Our 𝑇𝑅𝛩𝑈𝑃𝛯:* https://chat.whatsapp.com/GT8Q4JNqt51EAn1MnBl6Fj `)
+    reply(`*✰ ( ╯﹏╰ )  ✰:* https://chat.whatsapp.com/CxWA2uQEfNgGg5ZTx1PKaq`)
     break
 
 case 'repo': case 'botrepo':
@@ -4779,7 +4779,7 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
 
 
  『  *${global.BotName}*  』
- Powered by: *𝚉𝚎𝚛𝚘-𝚃𝚠𝚘*
+ Powered by: * ╯﹏╰ *
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
@@ -4790,7 +4790,7 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
     
 
  let buttonshelpm = [
-    {buttonId: `${prefix}support`, buttonText: {displayText: '𝑇𝑅𝛩𝑈𝑃𝛯'}, type: 1}
+    {buttonId: `${prefix}support`, buttonText: {displayText: '✰ ( ╯﹏╰ )  ✰'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
