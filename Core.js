@@ -1433,7 +1433,7 @@ case 'me': case 'profile': case 'p':
 
 
 let buttonspro = [
-    {buttonId: `${prefix}soulmate`, buttonText: {displayText: 'Your Soulmate'}, type: 1}
+    {buttonId: `${prefix}support`, buttonText: {displayText: '𝚂𝙾𝚁𝚁𝙾𝚆'}, type: 1}
     ]
             let buttonMessage = {
                 image: { url: pfp },
@@ -1476,14 +1476,14 @@ replay('This Group has been *unbanned* from using me!')
   }
   break
 
-case 'support': case 'supportgc':
+case 'support': case 'Troupe':
     
     reply(`*Our 𝑇𝑅𝛩𝑈𝑃𝛯:* https://chat.whatsapp.com/GT8Q4JNqt51EAn1MnBl6Fj `)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`*My Source Code:* https://github.com/FantoX001/Miku-MD`)
+    reply(`*Us:* https://chat.whatsapp.com/CxWA2uQEfNgGg5ZTx1PKaq`)
     break
 
 case 'nsfwmenu':
@@ -4707,13 +4707,15 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'hope':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *HOPE*.
+I am *Miku Nakano*, a bot developed by *𝑃𝛨𝛥𝛮𝑇𝛩𝛭 𝑇𝑅𝛩𝑈𝑃𝛯*.
 
 🔮 My prefix is:  ${prefix}
 
 Here's the list of my Commands.
 
+*↫↫↫↫↫ { 🔮 𝓤𝓢 🔮 } ↬↬↬↬↬*
 
+Troupe, repo
  
  *↫↫↫↫↫ { 👑 𝓬𝓸𝓻𝓮 👑 } ↬↬↬↬↬*
 
