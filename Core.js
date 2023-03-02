@@ -4713,61 +4713,128 @@ I am *Miku Nakano*, a bot developed by *𝑃𝛨𝛥𝛮𝑇𝛩𝛭 𝑇𝑅�
 
 Here's the list of my Commands.
 
-*↫↫↫↫↫ { 🔮 𝓤𝓢 🔮 } ↬↬↬↬↬*
-
-Troupe, repo
- 
- *↫↫↫↫↫ { 👑 𝓬𝓸𝓻𝓮 👑 } ↬↬↬↬↬*
-
-speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
- 
- *↫↫↫↫↫ { 🎖️ 𝓸𝔀𝓷𝓮𝓻 🎖️ } ↬↬↬↬↬*
-
-self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
+*↫↫↫↫↫ { 👑 𝓬𝓸𝓻𝓮 👑 } ↬↬↬↬↬*
+├・👑 ꜱᴘᴇᴀᴋ, ᴍɪᴋᴜ, 
+├・👑 ꜱᴛᴀʟᴋ, ᴘʀᴏꜰɪʟᴇ, 
+├・👑 ꜱᴛᴀʟᴋ, ᴘʀᴏꜰɪʟᴇ,
+├・👑 ᴅᴇʟᴇᴛᴇᴀʟʟ, ʟɪꜱᴛɢᴄ, 
+├・👑 ʟɪꜱᴛᴘᴄ, ꜱᴜᴘᴘᴏʀᴛ, 
+├・👑 ʀᴇᴘᴏ, ꜱᴄʀɪᴘᴛ
+       ──────────────────
+       
+*↫↫↫↫↫ { 🎖️ 𝓸𝔀𝓷𝓮𝓻 🎖️ } ↬↬↬↬↬*
+├・🎖️ ꜱᴇʟꜰ, ᴘᴜʙʟɪᴄ, 
+├・🎖️ ʙᴀɴ, ʙᴀɴɢʀᴏᴜᴘ, 
+├・🎖️ ʙʏᴇ, ᴊᴏɪɴ, 
+├・🎖️ ʙʏᴇ, ʙʟᴏᴄᴋ, 
+├・🎖️ ᴜɴʙʟᴏᴄᴋ, ʙʀᴏᴀᴅᴄᴀꜱᴛ 
+       ──────────────────
 
  *↫↫↫↫↫ { 🪩 𝓐𝓓𝓜𝓘𝓝 🪩 } ↬↬↬↬↬*
- 
-promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
+├・🪩 ᴘʀᴏᴍᴏᴛᴇ, ᴅᴇᴍᴏᴛᴇ, 
+├・🪩 ʀᴇᴠᴏᴋᴇ, ᴀᴅᴅ,
+├・🪩 ʀᴇᴍᴏᴠᴇ, ᴛᴀɢᴀʟʟ, 
+├・🪩 ʜɪᴅᴇᴛᴀɢ, ɢʀᴏᴜᴘꜱᴇᴛᴛɪɴɢ,
+├・🪩 ɢʀᴏᴜᴘʟɪɴᴋ, ꜱᴇᴛɢᴄᴘᴘ, 
+├・🪩 ꜱᴇᴛɴᴀᴍᴇ, ꜱᴇᴛᴅᴇꜱᴄ, 
+├・🪩 ɢʀᴏᴜᴘ, ɴꜱꜰᴡ 
+       ──────────────────
 
  *↫↫↫↫↫ { ⚙️ 𝓐𝓝𝓣𝓘-𝓛𝓘𝓝𝓚 ⚙️ } ↬↬↬↬↬*
- 
-antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame
+├・⚙️ ᴀɴᴛɪʟɪɴᴋɢᴄ, ᴀɴᴛɪʟɪɴᴋᴛɢ, 
+├・⚙️ ᴀɴᴛɪʟɪɴᴋᴛᴛ, ᴀɴᴛɪʟɪɴᴋʏᴛᴄʜ,
+├・⚙️ ᴀɴᴛɪʟɪɴᴋʏᴛᴠɪᴅ, ᴀɴᴛɪʟɪɴᴋɪɢ,
+├・⚙️ ᴀɴᴛɪʟɪɴᴋꜰʙ, ᴀɴᴛɪʟɪɴᴋᴛᴡɪᴛ,
+├・⚙️ ᴀɴᴛɪʟɪɴᴋᴀʟʟ, ᴀɴᴛɪᴡᴀᴍᴇ 
+       ──────────────────
 
- *↫↫↫↫↫ { 🔎 𝓢𝓔𝓐𝓡𝓒𝓗 🔍 } ↬↬↬↬↬*
-
-play, ytmp3, ytmp4, yts, lyrics, google, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone  
+*↫↫↫↫↫ { 🔎 𝓢𝓔𝓐𝓡𝓒𝓗 🔍 } ↬↬↬↬↬*
+├・🔎 ᴘʟᴀʏ, ʏᴛᴍᴘ3, 
+├・🔎 ʏᴛᴍᴘ4, ʏᴛꜱ,
+├・🔎 ʟʏʀɪᴄꜱ, ɢᴏᴏɢʟᴇ,
+├・🔎 ɢɪᴍᴀɢᴇ, ᴘɪɴᴛᴇʀᴇꜱᴛ,
+├・🔎 ɪᴍᴀɢᴇ, ᴍᴏᴠɪᴇ,
+├・🔎 ᴡᴀʟʟᴘᴀᴘᴇʀ, ʀɪɴɢᴛᴏɴᴇ,
+├・🔎 ʜᴀᴘᴘʏᴍᴏᴅ, ᴡɪᴋɪᴍᴇᴅɪᴀ,
+├・🔎 ʀɪɴɢᴛᴏɴᴇ, ᴀɴɪᴍᴇ,
+├・🔎 ᴀɴɪᴍᴇꜱᴛᴏʀʏ, ᴍᴀɴɢᴀ
+       ──────────────────
 
  *↫↫↫↫↫ { ♻️ 𝓒𝓞𝓝𝓥𝓔𝓡𝓣 ♻️ } ↬↬↬↬↬*
-
-sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
+├・♻️ ꜱᴛɪᴄᴋᴇʀ, ᴛᴏɪᴍɢ, 
+├・♻️ ᴛᴏᴠɪᴅᴇᴏ, ᴛᴏɢɪꜰ,
+├・♻️ ꜱᴛᴇᴀʟ, ꜱᴛɪᴄᴋᴇʀᴍᴇᴍᴇ, 
+├・♻️ ᴇᴍᴏᴊɪᴍɪx, ᴛᴏᴜʀʟ,
+├・♻️ ᴛᴏᴍᴘ3, ᴛᴏᴀᴜᴅɪᴏ
+       ──────────────────
 
  *↫↫↫↫↫ { 🔊 𝓐𝓤𝓓𝓘𝓞 🔊 } ↬↬↬↬↬*
+├・🔊 ʙᴀꜱꜱ, ᴛᴇᴍᴘᴏ, 
+├・🔊 ʙʟᴏᴡɴ, ᴅᴇᴇᴘ,
+├・🔊 ᴇᴀʀʀᴀᴘᴇ, ꜰᴀꜱᴛ,
+├・🔊 ꜰᴀᴛ, ɴɪɢʜᴛᴄᴏʀᴇ,
+├・🔊 ʀᴇᴠᴇʀꜱᴇ, ʀᴏʙᴏᴛ,
+├・🔊 ꜱʟᴏᴡ, ꜱQᴜɪʀʀᴇʟ
+       ──────────────────
 
-bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
+*↫↫↫↫↫ { 🏮 𝓡𝓔𝓐𝓒𝓣𝓘𝓞𝓝 🏮 } ↬↬↬↬↬*
+├・🏮 ʙᴏɴᴋ, ᴄʀʏ, 
+├・🏮 ʙᴜʟʟʏ, ᴄᴜᴅᴅʟᴇ,
+├・🏮 ʜᴜɢ, ᴋɪꜱꜱ,
+├・🏮 ʟɪᴄᴋ, ᴘᴀᴛ,
+├・🏮 ꜱᴍᴜɢ, ʏᴇᴇᴛ,
+├・🏮 ʙʟᴜꜱʜ, ꜱᴍɪʟᴇ,
+├・🏮 ᴡᴀᴠᴇ, ʜɪɢʜꜰɪᴠᴇ,
+├・🏮 ʜᴀɴᴅʜᴏʟᴅ, ɴᴏᴍ,
+├・🏮 ɢʟᴏᴍᴘ, ʙɪᴛᴇ,
+├・🏮 ꜱʟᴀᴘ, ᴋɪʟʟ,
+├・🏮 ʜᴀᴘᴘʏ, ᴡɪɴᴋ,
+├・🏮 ᴅᴀɴᴄᴇ, ᴄʀɪɴɢᴇ
+       ──────────────────
 
- *↫↫↫↫↫ { 🏮 𝓡𝓔𝓐𝓒𝓣𝓘𝓞𝓝 🏮 } ↬↬↬↬↬*
+*↫↫↫↫↫ { 🔗 𝓓𝓞𝓦𝓝𝓛𝓞𝓐𝓓 🔗 } ↬↬↬↬↬*
+├・🔗 ᴘʟᴀʏ, ʏᴛᴍᴘ3, 
+├・🔗 ʏᴛᴍᴘ4, ʏᴛᴠɪᴅᴇᴏ,
+├・🔗 ᴍᴇᴅɪᴀꜰɪʀᴇ, ɪɴꜱᴛᴀɢʀᴀᴍ,
+├・🔗 ᴛɪᴋᴛᴏᴋᴀᴜᴅɪᴏ, ꜰᴀᴄᴇʙᴏᴏᴋ,
+├・🔗 ꜰʙᴍᴘ3, ᴛᴡɪᴛᴛᴇʀ,    
+├・🔗 ᴛᴡɪᴛᴛᴇʀᴍᴘ3, ᴛɪᴋᴛᴏᴋ,
+├・🔗 ᴛɪᴋᴛᴏᴋɴᴏᴡᴍ, ᴍᴇᴅɪᴀꜰɪʀᴇ
+       ──────────────────
+  
+* ↫↫↫↫↫ { 🎐 𝓦𝓔𝓔𝓑 🎐 } ↬↬↬↬↬*
+├・🎐 ᴄʀᴏꜱᴘʟᴀʏ, ᴡᴀɪꜰᴜ, 
+├・🎐 ʟᴏʟɪ, ɴᴇᴋᴏ,
+├・🎐 ᴘᴘᴄᴏᴜᴘʟᴇ, ꜰᴇᴇᴅ,
+├・🎐 ꜰᴏxɢɪʀʟ, ꜰᴇᴇᴅ,
+├・🎐 ᴍᴇᴏᴡ, ᴛɪᴄᴋʟᴇ,
+├・🎐 ᴡᴀʟʟᴘᴀᴘᴇʀ, ᴄᴏꜰꜰᴇᴇ,
+├・🎐 ᴀɴɪᴍᴇɴᴏᴍ, ᴡᴀɪꜰᴜ3,   
+├・🎐 ɴᴇᴋᴏ2, ꜰᴇᴇᴅ,
+├・🎐 ᴍᴇᴏᴡ, ᴛɪᴄᴋʟᴇ,
+├・🎐 ᴍɪɢᴜᴍɪɴ, ᴀᴡᴏᴏ,
+├・🎐 ᴀɴɪᴍᴇᴡᴀʟʟᴘᴀᴘᴇʀ2, ᴀɴɪᴍᴇ, ᴍᴀɴɢᴀ
+       ──────────────────
 
-bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
+*↫↫↫↫↫ { 📌 𝓣𝓘𝓜𝓔-𝓟𝓐𝓢𝓢 📌} ↬↬↬↬↬*
+├・📌 ᴀɴɪᴍᴇQᴜᴏᴛᴇ, Qᴜᴏᴛᴇ,  
+├・📌 ᴇᴀʀᴛʜQᴜᴀᴋᴇ, ᴡɪᴋɪ
+       ──────────────────
 
- *↫↫↫↫↫ { 🔗 𝓓𝓞𝓦𝓝𝓛𝓞𝓐𝓓 🔗 } ↬↬↬↬↬*
-
-play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
-
- * ↫↫↫↫↫ { 🎐 𝓦𝓔𝓔𝓑 🎐 } ↬↬↬↬↬*
-
-crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
-
- *↫↫↫↫↫ { 📌 𝓣𝓘𝓜𝓔-𝓟𝓐𝓢𝓢 📌} ↬↬↬↬↬*
-
-animequote, quote, covid, earthquake, wiki
-
- *↫↫↫↫↫ { 🧩 𝓔𝓝𝓙𝓞𝓨 🧩 } ↬↬↬↬↬*
-
-stickermeme, quotes, darkjoke 
+*↫↫↫↫↫ { 🧩 𝓔𝓝𝓙𝓞𝓨 🧩 } ↬↬↬↬↬*
+├・🧩 ꜱᴛɪᴄᴋᴇʀᴍᴇᴍᴇ, Qᴜᴏᴛᴇꜱ, ᴅᴀʀᴋᴊᴏᴋᴇ
+       ──────────────────
 
  * ↫↫↫↫↫ { 🎰 𝓕𝓤𝓝 🎰 } ↬↬↬↬↬*
-
-reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
+├・🎰 ʀᴇᴀᴄᴛɪᴏɴ, ᴛʀᴜᴛʜ,  
+├・🎰 ᴅᴀʀᴇ, ᴄᴏᴜᴘʟᴇ,
+├・🎰 ꜱᴏᴜʟᴍᴀᴛᴇ, ʜᴀɴᴅꜱᴏᴍᴇᴄʜᴇᴄᴋ,
+├・🎰 ʙᴇᴀᴜᴛɪꜰᴜʟᴄʜᴇᴄᴋ, ᴀᴡᴇꜱᴏᴍᴇᴄʜᴇᴄᴋ,
+├・🎰 ɢʀᴇᴀᴛᴄʜᴇᴄᴋ, ɢᴀʏᴄʜᴇᴄᴋ,
+├・🎰 ᴄᴜᴛᴇᴄʜᴇᴄᴋ, ʟᴇꜱʙɪᴀɴᴄʜᴇᴄᴋ, 
+├・🎰 ʜᴏʀɴʏᴄʜᴇᴄᴋ, ᴘʀᴇᴛᴛʏᴄʜᴇᴄᴋ,  
+├・🎰 ᴜɢʟʏᴄʜᴇᴄᴋ, ᴄʜᴀʀᴀᴄᴛᴇʀᴄʜᴇᴄᴋ
+       ──────────────────
 
 *↫↫↫↫↫ { ✨ 𝓝𝓢𝓕𝓦 ✨ } ↬↬↬↬↬*
 
