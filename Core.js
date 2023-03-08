@@ -1478,12 +1478,12 @@ replay('This Group has been *unbanned* from using me!')
 
 case 'support': case 'Troupe':
     
-    reply(`*✰ ( ╯﹏╰ )  ✰:* https://chat.whatsapp.com/CxWA2uQEfNgGg5ZTx1PKaq`)
+    reply(`*✰ ( ╯﹏╰ )  ✰:* https://chat.whatsapp.com/JnWjXZ9pPp5A43vpp6Hf1Tx`)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`*Us:* https://chat.whatsapp.com/CxWA2uQEfNgGg5ZTx1PKaq`)
+    reply(`*Us:* https://chat.whatsapp.com/JnWjXZ9pPp5A43vpp6Hf1T`)
     break
 
 case 'nsfwmenu':
