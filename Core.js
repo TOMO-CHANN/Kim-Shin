@@ -4883,7 +4883,7 @@ case '':
  const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}hope* to get my full command list.`
      
          let butRun = [
-                {buttonId: `${prefix}help`, buttonText: {displayText: 'ｏｒｅｋｉ'}, type: 1}
+                {buttonId: `${prefix}help`, buttonText: {displayText: '𝑊𝛥𝛮𝑇 𝑆𝛩𝛭𝛯𝑇𝛨𝛪𝛮𝐺 !'}, type: 1}
                 ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku.mp4'),gifPlayback:true,
