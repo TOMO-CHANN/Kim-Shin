@@ -13,9 +13,9 @@ global.ownertag = ['917065985182']
 global.BotName = "ℳ𝓘𝓚𝓤"
 global.packname = "🌟 ʜᴇʀᴇ ʏᴏᴜ ɢᴏ"
 global.author = "ʙʏ: ᴍɪᴋᴜ ʙᴏᴛ 🌟"
-global.OwnerName = "CALAMITY"
+global.OwnerName = "RAKU ⟩⟩"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/F6WJi4vPqWcK5qlNMUDxWB"
+global.SupportGroupLink = "https://chat.whatsapp.com/BwBf5zvLq1qLpEXMqhYzs2"
 global.sessionName = "session"
 
 
